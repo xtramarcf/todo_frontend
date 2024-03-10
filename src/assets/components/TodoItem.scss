@@ -1,0 +1,24 @@
+.important {
+  background-color: #b60000;
+}
+
+.todo-item {
+  border: 1px solid #ddd;
+  border-radius: 30px;
+  padding: 5px;
+  margin-bottom: 10px;
+  background-color: rgba(110, 103, 103, 0.4);
+  flex-direction: row;
+  min-width: 500px;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 8px;
+  padding: 10px;
+  margin-bottom: 10px;;
+}
+
